@@ -1,0 +1,14 @@
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.AssemblyInfoInputs.cache
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.AssemblyInfo.cs
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.csproj.CoreCompileInputs.cache
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\bin\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.exe
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\bin\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.deps.json
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\bin\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.runtimeconfig.json
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\bin\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.dll
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\bin\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.pdb
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.dll
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\refint\JogoDaVelhaFrontend.dll
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.pdb
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\JogoDaVelhaFrontend.genruntimeconfig.cache
+C:\Users\thiago_kraus\Desktop\Onedrive\Minicurso de c\Projeto_final_26_1\JogoDaVelhaFrontend\obj\Debug\net8.0-windows\win-x86\ref\JogoDaVelhaFrontend.dll
